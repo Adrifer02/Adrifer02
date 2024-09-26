@@ -11,7 +11,7 @@ Feel free to explore my projects, see how I apply technology and creativity 🚀
 - [Proyecto Tableau - "COVID-19 Global Tracker"](https://public.tableau.com/views/AnalyseofPartiallyVaccinatedVSFullyVaccinated/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Translation
-- [Subtitling (ES < FR/EN) Short Film - "DARK POINT" by Laura Hernández](<iframe width="560" height="315" src="https://www.youtube.com/embed/SAUSi0EYEcg?si=WmFOPrT8IaSRRwXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
+- [Subtitling (ES < FR/EN) Short Film - "DARK POINT" by Laura Hernández](https://www.youtube.com/embed/SAUSi0EYEcg?si=WmFOPrT8IaSRRwXn)
 
 ## About Me
 I am a multilingual professional, fluent in Spanish, French, English, and Portuguese. I hold a degree in French Philology and a Master's in Creative and Humanistic Translation. My career has given me the opportunity to work in diverse fields, from teaching Spanish and French in Paris to working as a translator and business intelligence specialist in Valencia. Currently, I’m based in Lisbon.
