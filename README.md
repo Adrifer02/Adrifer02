@@ -11,7 +11,7 @@ Feel free to explore my projects, see how I apply technology and creativity 🚀
 - [Tableau Project - "COVID-19 Global Tracker"](https://public.tableau.com/views/AnalyseofPartiallyVaccinatedVSFullyVaccinated/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Python Project - "Data Analysis on Ultramarathon Runners"](https://github.com/Adrifer02/Ultramarathon-Analysis)
 - [PL/SQL Project - "Employee and Department Management System"](https://github.com/Adrifer02/Proyecto-de-Gesti-n-de-Empleados-y-Departamentos-en-Oracle)
-- 
+
 ### Translation
 - [Subtitling (ES > FR/EN) Short Film - "DARK POINT" by Laura Hernández](https://www.youtube.com/embed/SAUSi0EYEcg?si=WmFOPrT8IaSRRwXn)
 
