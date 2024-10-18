@@ -5,7 +5,7 @@ I am passionate about data analysis 📊, programming 💻, and translation 🌍
 
 Feel free to explore my projects, see how I apply technology and creativity 🚀, and reach out to collaborate on future challenges! 🤝
 
-## Proyectos
+## Projects
 
 ### Data Analyst
 - [Tableau Project - "COVID-19 Global Tracker"](https://public.tableau.com/views/AnalyseofPartiallyVaccinatedVSFullyVaccinated/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
